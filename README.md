@@ -1,2 +1,5 @@
 # newsletter_flow
-Generate weekly newsletter with spesific images 
+
+## Workflow Overview
+
+![Newsletter Automation Workflow](screenshots/full-workflow.png)
